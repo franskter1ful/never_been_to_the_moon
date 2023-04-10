@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>New Closed Captions Project</h1>
+        <h1>Frank GMZ TESTING PIPELINE</h1>
       </header>
     </div>
   );
